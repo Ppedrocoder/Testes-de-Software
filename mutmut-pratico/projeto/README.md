@@ -1,8 +1,8 @@
 # Rodando Comandos MutMut
 
 ## Comando inicial: 
-![](comando-inicial.png)
+![](../comando-inicial.png)
 
 
 ## Mostrar resultados: 
-![](resultados.png)
+![](../resultados.png)
